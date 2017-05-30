@@ -1,0 +1,16 @@
+body {
+  background-color: #FFE;
+  border-color: black;
+  border-width: 10px;
+  border-style: solid;
+}
+
+h3 {
+  color: #887;
+}
+
+img {
+  border-color: black;
+  border-width: 10px;
+  border-style: solid;
+}
